@@ -17,3 +17,7 @@ Some contributions
 ## Who am I?
 
 I don't know.
+
+## Copyright
+
+Blah! 2015
