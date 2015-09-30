@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Some contributions
+Please for and issue pull request
 
 ## Who am I?
 
